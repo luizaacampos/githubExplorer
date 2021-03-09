@@ -5,21 +5,17 @@
 <h2>⚒️ Como usar</h2>
 
 <h3>Instalação</h3>
-  <p>Abra esse projeto no seu editor de código ou no terminal do seu computador e execute o comando abaixo.</p>
+<p>Abra esse projeto no seu editor de código ou no terminal do seu computador e execute o comando abaixo.</p>
 
-  ```sh
-
+ ```sh
 yarn install
-
 ```
 
 <h3>Rodando a aplicação</h3>
   <p>No terminal execute o comando abaixo.</p>
 
 ```sh
-
 yarn dev
-
 ```
 
 <p>A aplicação será aberta na porta:8080. No seu navegador acesse http://localhost:8080</p>
@@ -44,6 +40,6 @@ yarn dev
 * [Linkedin](https://linkedin.com/in/luiza-de-almeida-campos)
 
   
-<strong align="center">Não esqueça de deixar sua ⭐️</strong>
+<strong align="center">Se gostou, deixe sua ⭐️</strong>
 
   
