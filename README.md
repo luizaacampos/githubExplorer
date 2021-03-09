@@ -1,4 +1,4 @@
-<h1 align="center>githubExplorer</h1>
+<h1 align="center">Github Explorer</h1>
 
 <p>Primeiro projeto desenvolvido durante o bootcamp Ignite da Rocketseat. A aplicação lista alguns dos meus repositórios do github</p>
 
@@ -7,7 +7,7 @@
 <h3>Instalação</h3>
 <p>Abra esse projeto no seu editor de código ou no terminal do seu computador e execute o comando abaixo.</p>
 
- ```sh
+```sh
 yarn install
 ```
 
