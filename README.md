@@ -8,14 +8,14 @@
 <p>Abra esse projeto no seu editor de código ou no terminal do seu computador e execute o comando abaixo.</p>
 
 ```sh
-yarn install
+yarn
 ```
 
 <h3>Rodando a aplicação</h3>
   <p>No terminal execute o comando abaixo.</p>
 
 ```sh
-yarn dev
+yarn start
 ```
 
 <p>A aplicação será aberta na porta:8080. No seu navegador acesse http://localhost:8080</p>
