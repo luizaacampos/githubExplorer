@@ -18,7 +18,7 @@ yarn
 yarn start
 ```
 
-<p>A aplicação será aberta na porta:8080. No seu navegador acesse http://localhost:8080</p>
+<p>A aplicação será aberta na porta:3000. No seu navegador acesse http://localhost:3000</p>
 
 
 <h2 id="tecnologias">🛸 Tecnologias</h2>
